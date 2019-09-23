@@ -11,6 +11,7 @@
 运行:
 go run main.go
 
+```ocaml
    let map = fn(arr, f) {
     let iter = fn(arr, acc) {
       if (len(arr) == 0) {
@@ -32,3 +33,4 @@ go run main.go
 
    let c = {11:"11", 22:"22", 11+22:"33", 44:[1,2,3,4,5]};
    c[44]  
+```
